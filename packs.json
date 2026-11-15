@@ -1,0 +1,9 @@
+{
+ "packs": [
+  "vocab-core.json",
+  "idioms.json",
+  "grammar.json",
+  "reading.json",
+  "listening.json"
+ ]
+}
